@@ -1,0 +1,29 @@
+{
+  "id": "1",
+  "name": "Next.js 14 PWA App",
+  "short_name": "Next 14 PWA",
+  "description": "This is  a next.js 14 app compatible with PWA",
+  "icons": [
+    {
+      "src": "/img-384.png",
+      "sizes": "384 x 384",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/img-768.png",
+      "sizes": "768 x 768",
+      "type": "image/png"
+    },
+    {
+      "src": "/img-1024.png",
+      "sizes": "1024 x 1024",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#3367D6",
+  "background_color": "#3367D6",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}
